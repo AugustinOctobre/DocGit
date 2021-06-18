@@ -26,7 +26,7 @@
 
 [Tuto rapide de Git](http://rogerdudler.github.io/git-guide/index.fr.html)
 
-modif
+modif - 2
 
 
 ## Docker
