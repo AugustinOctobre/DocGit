@@ -22,7 +22,7 @@
 
 --------------------------------------------------------
 
-![Image](../envoie-git.png)
+![Image](https://github.com/AugustinOctobre/DocGit/blob/main/envoie-git.png)
 
 [Tuto rapide de Git](http://rogerdudler.github.io/git-guide/index.fr.html)
 
