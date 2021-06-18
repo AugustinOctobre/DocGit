@@ -1,8 +1,8 @@
 # Documentation
 
-[Tuto rapide de Git](http://rogerdudler.github.io/git-guide/index.fr.html)
 
-![Image](https://i.ibb.co/vznnhsL/envoie-git.png)
+
+
 
 ## Git
 * git init
@@ -15,13 +15,23 @@
 * git commit -m
 * git push
 
+--------------------------------------------------------
+**cofiguration compte sur Git**
+* $ git config --global user.name "John Doe"
+* $ git config --global user.email johndoe@example.com
+
+--------------------------------------------------------
+
+![Image](https://i.ibb.co/vznnhsL/envoie-git.png)
+
+[Tuto rapide de Git](http://rogerdudler.github.io/git-guide/index.fr.html)
 
 
 
 
 ## Docker
 
-[Document PDF](https://halshs.archives-ouvertes.fr/cel-02285669/file/Introduction%20%C3%A0%20Docker.pdf)
+[Document regroupant une partie des commandes Docker](https://halshs.archives-ouvertes.fr/cel-02285669/file/Introduction%20%C3%A0%20Docker.pdf)
 
 
 * docker-machine
