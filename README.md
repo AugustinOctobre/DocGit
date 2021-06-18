@@ -2,6 +2,7 @@
 
 [Tuto rapide de Git](http://rogerdudler.github.io/git-guide/index.fr.html)
 
+![Image](https://i.ibb.co/vznnhsL/envoie-git.png)
 
 ## Git
 * git init
