@@ -22,7 +22,7 @@
 
 --------------------------------------------------------
 
-![Image](https://i.ibb.co/vznnhsL/envoie-git.png)
+![Image](../envoie-git.png)
 
 [Tuto rapide de Git](http://rogerdudler.github.io/git-guide/index.fr.html)
 
