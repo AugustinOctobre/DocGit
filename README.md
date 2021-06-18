@@ -14,6 +14,7 @@
 * git add "fichier"
 * git commit -m
 * git push
+* git status
 
 --------------------------------------------------------
 **cofiguration compte sur Git**
